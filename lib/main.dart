@@ -105,7 +105,7 @@ class App extends StatelessWidget {
                     ),
                     title: Column(
                       children: <Widget>[
-                        Text('僕たち側から見て面白いですか？',
+                        Text('僕たち側から見て面白い？',
                         style: TextStyle(
                           fontWeight: FontWeight.w500,
                         ),
